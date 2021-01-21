@@ -1,0 +1,69 @@
+table th,td {
+	vertical-align: middle !important;
+}
+table.dataTable{
+	border-collapse: collapse !important;
+}
+#DataTables_Table_0_wrapper{
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+}
+
+/*#DataTables_Table_0_filter input{
+	width: 60%;
+}*/
+
+.table td {
+    padding: 5px;
+}
+.table th {
+    padding: 8px;
+}
+.profile-img{
+	width: 55px !important;
+	float: left;
+}
+
+.profile-img img{
+	width: 100%;
+	border-radius: 50px;
+	border: 1px solid silver;
+}
+
+.profile-content{
+	float: left;
+	margin-left: 5px;
+}
+
+.profile-content p{
+	margin-bottom: 0px;
+}
+.list-action{
+	text-align: center;
+}
+.list-action .dropdown-toggle:after{
+	display: none;
+}
+
+.list-action-btn{
+	border: 1px solid silver;
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+
+}
+.list-card-title{
+	margin-bottom: 30px !important;
+}
+
+.sidebar-nav ul .sidebar-item .sidebar-link i {
+    font-size: 16px;
+}
+.form-input-role{
+	margin-left: 0px !important;
+}
+
+.select2-container--default .select2-selection--multiple {
+    line-height: 24px !important;
+    height: 35px !important;
+}
